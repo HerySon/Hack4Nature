@@ -28,7 +28,7 @@ A web interface, made with the python package [Streamlit](https://streamlit.io/)
 - Nicolas Rochet
 
 ### Bibliography
-Lot of work have already been proposed for tree dectection, but few applicable to images taken from Marseille's region. See the [Hack4Nature proejct page](https://hack4nature.slite.com/p/note/Fs34nEyzDG61edEM5oHnUF/Challenge-4-Detect-Tree) for details on state of the art and similar project
+Lot of work have already been proposed for tree dectection, but few applicable to images taken from Marseille's region. See the [Detect tree project page](https://hack4nature.slite.com/p/note/Fs34nEyzDG61edEM5oHnUF/Challenge-4-Detect-Tree) for details on state of the art and similar project
 
 <!-- Some project note to be detailled cleaned 
 - Important links: https://developers.google.com/maps/documentation/urls/get-started#map-action
